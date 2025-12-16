@@ -119,3 +119,4 @@ gridHeight.addEventListener("input", () => {
 window.onload = () => {
     gridHeight.value = 0;
     gridWidth.value = 0;
+};
